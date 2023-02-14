@@ -1,0 +1,31 @@
+{
+    "name": "tic_tak_toe",
+    "short_name":"XnO",
+    "start_url":"/tic_tak-toe",
+    "background_color":"red",
+    "theme_color":"coral",
+    "display":"standalone",
+    "description":"Best Game ever created by me",
+    "icons":[
+        {
+            "src":"Icon-48.png",
+            "size":"48x48"
+        },
+        {
+            "src":"Icon-72.png",
+            "size":"72x72"
+        },
+        {
+            "src":"Icon-96.png",
+            "size":"96x96"
+        },
+        {
+            "src":"Icon-144.png",
+            "size":"144x144"
+        },
+        {
+            "src":"Icon-192.png",
+            "size":"192x192"
+        }
+    ]
+}
